@@ -1,0 +1,2 @@
+# kicad
+stuff for kicad
